@@ -1,0 +1,13 @@
+datasource postgresql {
+  provider = "postgresql"
+  url      = env("POSTGRESQL_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model LoginTicket {
+  id String @id @default(cuid())
+
+}
