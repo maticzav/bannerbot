@@ -29,7 +29,7 @@
     "url": "https://github.com/maticzav/emma-cli/issues"
   },
   "dependencies": {
-    "ink": "^2.6.0",
+    "ink": "^3.0.0",
     "ink-spinner": "^3.0.0",
     "meow": "^5.0.0",
     "multilines": "^1.0.2",
