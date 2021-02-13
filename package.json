@@ -15,7 +15,7 @@
     "husky": "3.1.0",
     "jest": "24.9.0",
     "lerna": "3.22.1",
-    "multilines": "1.0.2",
+    "multilines": "1.0.3",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.2",
     "rimraf": "3.0.0",
