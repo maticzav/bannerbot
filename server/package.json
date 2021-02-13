@@ -22,7 +22,7 @@
     "@types/jsonwebtoken": "8.5.0",
     "@types/node": "12.20.0",
     "husky": "3.1.0",
-    "lerna": "3.19.0",
+    "lerna": "3.22.1",
     "nock": "11.9.1",
     "prisma2": "2.0.0-previewnull-1",
     "ts-jest": "24.2.0",
