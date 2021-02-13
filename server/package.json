@@ -25,7 +25,7 @@
     "lerna": "3.22.1",
     "nock": "11.9.1",
     "prisma2": "2.0.0-previewnull-1",
-    "ts-jest": "24.2.0",
+    "ts-jest": "24.3.0",
     "ts-node": "8.5.4",
     "ts-node-dev": "1.1.1",
     "typescript": "3.7.3"
