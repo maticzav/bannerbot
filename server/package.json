@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/express": "4.17.11",
-    "@types/jsonwebtoken": "8.5.0",
+    "@types/jsonwebtoken": "8.5.1",
     "@types/node": "12.20.0",
     "husky": "3.1.0",
     "lerna": "3.22.1",
