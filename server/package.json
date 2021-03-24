@@ -6,7 +6,7 @@
     "prisma:migrate": "prisma2 lift up"
   },
   "dependencies": {
-    "@octokit/app": "4.3.0",
+    "@octokit/app": "10.3.0",
     "@octokit/plugin-throttling": "3.4.1",
     "@octokit/rest": "16.43.2",
     "@prisma/client": "2.16.1",
