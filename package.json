@@ -16,7 +16,7 @@
     "jest": "24.9.0",
     "lerna": "3.22.1",
     "multilines": "1.0.3",
-    "prettier": "1.19.1",
+    "prettier": "2.3.2",
     "pretty-quick": "2.0.2",
     "rimraf": "3.0.2",
     "ts-jest": "24.3.0",
