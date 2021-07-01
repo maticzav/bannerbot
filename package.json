@@ -14,7 +14,7 @@
     "execa": "3.4.0",
     "husky": "3.1.0",
     "jest": "24.9.0",
-    "lerna": "3.22.1",
+    "lerna": "4.0.0",
     "multilines": "1.0.3",
     "prettier": "1.19.1",
     "pretty-quick": "2.0.2",
